@@ -38,3 +38,16 @@ This Project allows users to manage their daily tasks by adding,viewing,removing
 ## Technologies Used
 - Python 3.x
 
+# 4. Quiz_Game (Python)
+A simple **console-based Quiz Game** built using Python.
+## Description
+The game asks multiple-choice questions and calculates the user's final score.
+## Features
+- Multiple-choice questions
+- Random questions order
+- Score calculation
+- User-friendly console interface
+- Instant feedback for answers
+## Technologies Used 
+- Python 3.x
+
