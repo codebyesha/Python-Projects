@@ -1,6 +1,5 @@
-# Python Calculator
+# 1. Python Calculator
 This is a simple command-line calculator devolped in Python.It allows users to perform basic mathematical operations through an interactive menu.
-
 ## Features
 - Addition
 - Subtraction
@@ -10,24 +9,32 @@ This is a simple command-line calculator devolped in Python.It allows users to p
 - Floor Division
 - Modulus
 - Exit option
-
 ## Technologies Used
 - Python 3.x
 
 
-# Number Guessing Game (Python)
+# 2. Number Guessing Game (Python)
 A simple number guessing game built using Python.
-
- ## Description
+## Description
 In this game, the computer randomly selects a number between 1 and 100. The user tries to guess the correct number, and the program provides hints untill the correct number is found.
-
 ## Features
 - Random number generation
 - user input handling
 - Too high/ Too low hints
 - Attempt counter
 - Error handling for invalid input
- 
- ## Technologies Used
+## Technologies Used
  - Python 3.x
+
+ # 3. To-Do List App (Pyhton)
+ A simple To-Do List application built using Python.
+## Description
+This Project allows users to manage their daily tasks by adding,viewing,removing tasks.
+## Features
+- Add new tasks
+- View all taks
+- Remove completed tasks
+- Simple menu-based interface
+## Technologies Used
+- Python 3.x
 
